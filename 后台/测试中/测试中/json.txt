@@ -1,0 +1,13 @@
+{
+    "username": "sunzhen",
+    "avatar_url": "",
+    "email": "541068377@qq.com",
+    "realname": "\u5b59\u632f",
+    "uid": "",
+    "tel_mobile": "19992131026",
+    "status": "1",
+    "login_limit": "1",
+    "role_ids": "change_json",
+    "region_id": 110102000000,
+    "login_code": "0"
+}

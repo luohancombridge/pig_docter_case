@@ -1,0 +1,9 @@
+[url]
+public_url =https://admin-inner-api-dev.cpgroupcloud.com
+[login]
+password = 1234qwer
+name = 13513316106
+
+[sign]
+sign_type = cpgroupcloud
+
