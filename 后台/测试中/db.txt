@@ -1,8 +1,0 @@
-[db_oracle]
-type = oracle
-conn = 
-
-[sql]
-
-[data]
-
