@@ -5,4 +5,8 @@ conn =
 [sql]
 
 [data]
+shangpin_id = 88979
+sku_title = ×¢ÉäÓÃÁòËáÁ´Ã¹ËØ
+sku_price = 0.01
+region_id = 110101000000
 
