@@ -1,0 +1,18 @@
+{
+    "advance_discount": "0",
+    "delivery_address": {
+        "address": "\u5317\u4eac\u5e02\u5317\u4eac\u4e1c\u57ce\u533a\u5f00\u6625\u56ed",
+        "address_id": "176",
+        "name": "\u5b59\u632f",
+        "region_id": "110101000000",
+        "telphone": "19992131026"
+    },
+    "delivery_time": "",
+    "delivery_type": "10",
+    "pay_channel": "1",
+    "remark": "",
+    "shop_id": "11",
+    "shop_sku_list": "change_json",
+    "total_amount": "0.22",
+    "total_number": "22"
+}
