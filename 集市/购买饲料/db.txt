@@ -1,0 +1,19 @@
+[db_oracle]
+type = oracle
+conn = 
+
+[sql]
+
+[data]
+huowu_id = 70752
+shop_sku_id = 70752
+region_id = 420102000000
+email_name = 张三
+email_address = 湖北省武汉市江岸区国际贸易大厦12-2-201
+email_telphone = 18000000000
+email_address_id = 175
+email_is_default = 1
+number = 3
+sku_price = 134.00
+third_order_no = 10000401105145500011
+

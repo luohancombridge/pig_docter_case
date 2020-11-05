@@ -1,0 +1,19 @@
+[db_oracle]
+type = oracle
+conn = 
+
+[sql]
+
+[data]
+shangpin_id = 88979
+sku_title = 注射用硫酸链霉素
+sku_price = 0.01
+region_id = 110101000000
+number = 1
+email_name = 孙振
+email_address = 北京市北京东城区开春园
+email_telphone = 19992131026
+email_address_id = 176
+email_is_default = 0
+third_order_no = 10000401105145900016
+
