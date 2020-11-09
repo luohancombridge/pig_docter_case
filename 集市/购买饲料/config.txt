@@ -2,8 +2,7 @@
 public_url0 = https://gateway-iorder-dev2.cpgroupcloud.com
 public_url1 = https://dev-srv-iorder.cpgroupcloud.com
 public_url2= https://public-dev2.cpgroupcloud.com
-public_url3= http://10.0.16.119:5025
-
+public_url3= $
 [login]
 password = 123456
 name = 13123456789
