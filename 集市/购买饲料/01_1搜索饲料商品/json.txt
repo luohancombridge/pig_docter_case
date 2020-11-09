@@ -1,7 +1,0 @@
-{
-    "keyword": "sds",
-    "module_id": 1,
-    "category_id": 0,
-    "page": 1,
-    "page_size": 10
-}

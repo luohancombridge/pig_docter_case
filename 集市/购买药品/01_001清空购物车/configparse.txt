@@ -1,10 +1,10 @@
 [config]
-private_url = /gateway-mall/cart/cart/total-number
-method = get
+private_url = /tools/clear_all_cats
+method = post
 head_key = Content-type
 request_type = json
 head_value = application/x-www-form-urlencoded
-publick_url = public_url1
+publick_url = public_url3
 
 [sign]
 sign_type = ÷Ì≤© øapp

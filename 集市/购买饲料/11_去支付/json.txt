@@ -1,9 +1,0 @@
-{
-    "amount": "0.22",
-    "channel_amount": "0.22",
-    "channel_code": "wxsl",
-    "fee_amount": "0.0",
-    "merchant_channel_id": "14",
-    "payment_advance": "0.0",
-    "third_order_no": "10000401104153000012"
-}
