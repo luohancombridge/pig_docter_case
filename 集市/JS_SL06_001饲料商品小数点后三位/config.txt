@@ -1,0 +1,13 @@
+[url]
+public_url0 = https://gateway-iorder-dev2.cpgroupcloud.com
+public_url1 = https://dev-srv-iorder.cpgroupcloud.com
+public_url2= https://public-dev2.cpgroupcloud.com
+public_url3= $
+[login]
+password = 123456
+name = 13123456789
+device_token = 09dc2683c0464dd1962bd09f9656c373
+
+[sign]
+sign_type = ÷Ì≤© øapp
+

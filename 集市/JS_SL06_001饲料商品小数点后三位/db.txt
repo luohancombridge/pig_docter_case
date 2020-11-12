@@ -1,0 +1,27 @@
+[db_oracle]
+type = oracle
+conn = 
+
+[sql]
+
+[data]
+huowu_id = 70752
+shop_sku_id = 70752
+region_id = 420102000000
+email_name = 张三
+email_address = 湖北省武汉市江岸区国际贸易大厦12-2-201
+email_telphone = 18000000000
+email_address_id = 175
+email_is_default = 1
+number = 1
+sku_price = 134.00
+third_order_no = 201111145055823
+farm_id = 432
+cart_id = 1053
+huowu_id_maoyi = 59502
+shop_sku_id_maoyi = 59502
+sku_price_maoyi = 2.87
+sku_sn_sn = 23036
+sku_sn_maoyi = 11347
+third_order_no_maoyi = 201111145122421
+

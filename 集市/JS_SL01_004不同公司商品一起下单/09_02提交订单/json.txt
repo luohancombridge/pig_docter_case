@@ -1,0 +1,15 @@
+{
+    "advance_discount": "0",
+    "debt_amount": "0",
+    "delivery_time": "2020-11-10",
+    "delivery_type": "5",
+    "factory_discount": "0",
+    "farm_id": "",
+    "pay_channel": "1",
+    "remark": "",
+    "shop_id": "13",
+    "shop_sku_list": "change_json",
+    "total_amount": "0.01",
+    "total_number": "1",
+    "total_weight": "40.00"
+}

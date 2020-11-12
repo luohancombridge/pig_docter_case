@@ -1,0 +1,11 @@
+[config]
+private_url = /api/forward/ifarm/pigpro/user_farms
+method = get
+head_key = Content-type
+request_type = json
+head_value = application/x-www-form-urlencoded
+publick_url = public_url4
+
+[sign]
+sign_type = ÷Ì≤© øapp
+
